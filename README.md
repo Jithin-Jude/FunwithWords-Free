@@ -7,7 +7,7 @@
 </h1>
 
 <b>‘Fun with words’ is a memory game where a set of words are displayed which the player is supposed to
-memorize within the given time limit and retype it in the space provided. Accordingly scores are given.<b/>
+memorize within the given time limit and retype it in the space provided. Accordingly scores are given.</b>
 
 # Why this project?
 This memory game is a good exercise in enhancing memory, visual scanning, and concentration skills of the player.
