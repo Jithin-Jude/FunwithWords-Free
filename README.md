@@ -6,6 +6,11 @@
   <br>
 </h1>
 
+<p align="center">
+  <a href="https://github.com/MountZoft/FunwithWords-Free/issues"><img src="https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat" alt="contributions-welcome"></a>
+    <a href="http://hits.dwyl.io/MountZoft/FunwithWords-Free"><img src="http://hits.dwyl.io/MountZoft/FunwithWords-Free.svg" alt="HitCount"></a>
+</p>
+
 <b>‘Fun with words’ is a memory game where a set of words are displayed which the player is supposed to
 memorize within the given time limit and retype it in the space provided. Accordingly scores are given.</b>
 
